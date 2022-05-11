@@ -1,0 +1,169 @@
+body{
+    background-color: #081824;
+    overflow-x:hidden ;
+    
+    
+}
+header {
+    width: 100%;
+    position:relative;
+    top: 0px;
+    left:  0px;
+    height: 5%;
+  }
+  
+  .home {
+    position: relative;
+    top:-24px;
+    right: -958px;
+  }
+  
+  .login{
+    position: relative ;
+      top:-24px;
+      right: -980px;
+  }
+  #s
+  {
+    position: relative;
+    top: -22px;
+    right: -938px;
+  }
+  .p{
+
+      margin:29px 0px 0px 631px ;
+  }
+  .t{
+      margin:-316px 0px 0px 279px;
+  }
+  .pl{
+      font-size:large;
+      margin: 20px 0px 0px -105px;
+  }
+  .bh{
+      margin: -4px 0px 0px 1px;
+  }
+  .er{
+   margin: -729px 0px -1px 523px;
+  }
+  .ll{
+    margin: 0px 0px 0px 457px;
+font-size:large; 
+ }
+  .cc{
+    margin: -32px 0px 0px -73px;
+    font-size:large;
+  }
+  .vid{
+   
+    position: relative;
+    top: 4px;
+  }
+  .oo{
+    margin: -251px 0px 0px 543px;
+  }
+  table{
+    border: 4px;
+  }
+  .ad{
+    font-size: large;
+    margin: -664px 0px 0px 504px;
+  }
+  .ads{
+    margin:-350px 0px 0px 357px;
+  }
+  table{
+    margin:321px 0px 0px 0px;
+    width: 50%;
+    border: 1px solid #081824;
+    padding: 0px;
+    
+  }
+ table td{
+   padding: 10px;
+   background-color: #0818;
+
+  }
+  .footer{
+    position:relative;
+    left:34px;
+    bottom: -100px;
+    width: 100%;
+    height: 5%;
+    padding: 0px;
+    
+    
+  }
+  .zf{
+    position: relative;
+    left: -20px;
+  
+    bottom: -27px;
+  }
+  
+  .fa-facebook{
+    color: aliceblue;
+    position: relative;
+    top:5px;
+    right: -1072px;
+  }
+  .fa-twitter{
+    color: aliceblue;
+    position: relative;
+    top:5px;
+    right: -980px;
+  }.fa-google{
+    color: aliceblue;
+    position: relative;
+    top: 5px;
+    right:-890px;
+  }
+  .fa-linkedin{
+    color: aliceblue;
+    position: relative;
+    top: 5px;
+    right: -800px;
+  }
+  
+  .fa-instgram{
+    color: aliceblue;
+    position: relative;
+    top:5px;
+    right: -989px;
+  }
+  .end{
+    margin:-180px 0px 0px 828px;
+    border: 5px; solid #081824;
+text-transform: uppercase;
+letter-spacing: 5px;
+cursor: pointer;
+border-radius: 90px;
+transition: 1s;
+font-size: 20px;
+background-color:#0818;
+background-size: 100%;
+  }
+  .end{
+    box-shadow: ;
+  }
+  #asd{
+    position: relative;
+    right: -69px;
+  
+  }
+  .fg{
+  
+    position: relative;
+    top: -101px;
+    right: -917px;
+  }
+  .bo{
+    border: 3px;
+    border-radius: 3px;
+    position: relative;
+    top: 44px;
+    right: -795px;
+    background-color: #0818;
+    font-size: 40px;
+  }
+ 

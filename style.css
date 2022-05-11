@@ -1,0 +1,158 @@
+body{
+  background-color:black;
+background-image: url(image/IMG_20220508_234924.jpg);
+  background-size: 100%;
+  width: 100%;
+}
+header {
+
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  left:  0px;
+  height: 5%;
+  
+}
+
+.home {
+  position: relative ;
+  top:-24px;
+  right: -958px;
+  display: ;
+}
+
+.login{
+  position: relative ;
+    top:-24px;
+    right: -980px;
+}
+#s
+{
+  position: relative;
+  top: -23px;
+  right: -938px;
+
+}
+.Z{
+  position:relative ;
+  top:1px;
+  right:-10px;
+  font-size: x-large;
+}
+
+
+.d{
+margin:37px 0px 0px 525px;
+}
+.pho{
+  position: relative;
+  top: 46px;
+  right: -31px;
+}
+.little{
+  position: relative ;
+  top:34px;
+  right: -97px;
+}
+.phot{
+  position:relative;
+  top:-205px;
+  right: -555px;
+}
+
+.the{
+  position: relative;
+  top: -219px;
+ 
+  right: -601px;
+}
+.photo{
+  position: relative ;
+  top: -477px;
+  right: -951px;
+}
+.EYE{
+ position: relative;
+ top: -478px;
+ right: -983px;
+}
+.ph{
+  margin: 0px 0px 0px 500px;
+  position: relative;
+  top:-479px;
+  right: 431px;
+}
+.emy{
+  position: relative;
+  top:-494px;
+  right: -90px;
+}
+.pz{
+  position: relative;
+  top: -739px;
+  right: -570px;
+}
+.granny{
+  position: relative;
+  top:-758px;
+  right: -627px;
+}
+.slender{
+  position: relative;
+  top:-1000px;
+  right:-950px;
+}
+.sln{
+  position: relative;
+  top: -1019px;
+  right:-1035px;
+}
+.footer{
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  height: 5%;
+  background-color: #151c24;
+  
+}
+.zf{
+  position: relative;
+  left: 30px;
+
+  bottom: -3px;
+}
+
+.fa-facebook{
+  color: aliceblue;
+  position: relative;
+  top: -17px;
+  right: -1072px;
+}
+.fa-twitter{
+  color: aliceblue;
+  position: relative;
+  top:-18px;
+  right: -980px;
+}.fa-google{
+  color: aliceblue;
+  position: relative;
+  top: -16px;
+  right:-890px;
+}
+.fa-linkedin{
+  color: aliceblue;
+  position: relative;
+  top:-16px;
+  right: -800px;
+}
+
+.fa-instgram{
+  color: aliceblue;
+  position: relative;
+  top:-17px;
+  right: -989px;
+}
+body{
+  position: fixed;
+}
